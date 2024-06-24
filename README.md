@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcorona48&show_icons=true&locale=en&layout=compact" alt="jcorona48" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcorona48&show_icons=true&locale=en" alt="jcorona48" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcorona48&show_icons=true&locale=en&cache_seconds=21600" alt="jcorona48" /></p>
