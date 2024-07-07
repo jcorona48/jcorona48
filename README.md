@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joan Corona</h1>
 <h3 align="center">A passionate fullstack developer from Dominican Republic</h3>
 
+[![wakatime](https://wakatime.com/badge/user/8c896467-f9a2-47a8-8f91-d996fb53746c.svg)](https://wakatime.com/@8c896467-f9a2-47a8-8f91-d996fb53746c)
+
+[![committers.top badge](https://user-badge.committers.top/dominican_republic/jcorona48.svg)](https://user-badge.committers.top/dominican_republic/jcorona48)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcorona48" alt="jcorona48" /></a> </p>
 
 - 🔭 I’m currently working on Minnek Digital Studio
