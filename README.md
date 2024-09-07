@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joan Corona</h1>
-<h3 align="center">A passionate fullstack developer from Dominican Republic</h3>
+<h3 align="center">A passionate Node.Js Full Stack Enginner from Dominican Republic</h3>
 
 [![wakatime](https://wakatime.com/badge/user/8c896467-f9a2-47a8-8f91-d996fb53746c.svg)](https://wakatime.com/@8c896467-f9a2-47a8-8f91-d996fb53746c)
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Minnek Digital Studio
 
-- 💬 Ask me about **React, Express, GraphQL and Astro**
+- 💬 Ask me about **NextJs, Express, GraphQL and Astro**
 
 - 📫 How to reach me **joaneliasc86@gmail.com**
 
