@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=170&section=header&text=Joan%20Corona&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%C2%B7%20Platform%20%26%20Full%20Stack&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Joan Corona — Senior Software Engineer" />
+<img src="./assets/header.svg" width="100%" alt="Joan Corona — Senior Software Engineer, Platform & Full Stack" />
 
 <a href="https://jcorona.me/en/"><img src="https://img.shields.io/badge/Portfolio-jcorona.me-1e40af?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
 <a href="https://jcorona.me/en/cv/"><img src="https://img.shields.io/badge/CV-English-0f172a?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
@@ -71,7 +71,5 @@ I build the **shared foundations product teams rely on**: integration SDKs, desi
 <div align="center">
 
 <sub>💬 Open to <b>part-time and contract</b> work (remote) · Ask me about <b>NestJS, platform engineering and e-commerce</b></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=90&section=footer" width="100%" alt="" />
 
 </div>
